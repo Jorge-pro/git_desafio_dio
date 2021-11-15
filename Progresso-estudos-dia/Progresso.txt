@@ -1,7 +1,7 @@
 Progresso de estudos por dia:
 
 1) - primeiro dia inicio de atividades assistindo apresentacao do bootcamp spread.
-   - Introducao ao git e github (criação de repositótios e uso do git bash.
+   - Introducao ao git e github (criação de repositórios e uso do git bash).
    
 2)
 	
